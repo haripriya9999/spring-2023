@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/haripriya/Desktop/madiraju_haripriya_proj4",
+      "program": "/Users/haripriya/Desktop/madiraju_haripriya_proj4/build/Debug/outDebug"
+    }
+  ]
+}
